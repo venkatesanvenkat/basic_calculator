@@ -1,0 +1,35 @@
+body{
+    background: black;
+}
+h1{
+    background: wheat;
+    color: red;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+}
+h2{
+    background: white;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+}
+div{
+    background: red;
+    height: 100px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    font-size: medium;
+}
+p{
+    background: red;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+    margin: auto;
+    font-weight: bolder;
+}
